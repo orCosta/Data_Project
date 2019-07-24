@@ -1,0 +1,72 @@
+<WelcomeScreen>:
+    canvas:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+            source: 'bg.jpg'
+
+        Color:
+            rgba: 0,0,0, 0.6
+
+        Rectangle:
+            pos: 210, self.top - 122
+            size: self.width - 420, 110
+        Color:
+            rgba: 0,0,0, 0.9
+        Rectangle:
+            pos: 437, self.top - 624
+            size: self.width - 875, 25
+
+        Color:
+            rgba: 255/255.,225/255.,92/255., 0.9
+        Rectangle:
+            pos: 0, self.height /2 - 30
+            size: self.width, 150
+
+    DropBut:
+        size: 150, 45
+        pos: 315, 320
+        text: "Ingredient 1"
+    DropBut:
+        size: 150, 45
+        pos: 315 + 1*150 + 20, 320
+        text: "Ingredient 2"
+    DropBut:
+        size: 150, 45
+        pos: 315 + 2*150 + 2*20, 320
+        text: "Ingredient 3"
+
+    Label:
+        font_size: 70
+        center_x: root.width / 2
+        top: root.top
+        text: "Chef Smart"
+
+    Label:
+        font_size: 35
+        center_x: root.width / 2
+        top: root.top - 50
+        text: "Your Creative Cooking Companion"
+
+    Label:
+        font_size: 25
+        color: 0,0,0,1
+        center_x: root.width / 2
+        top: root.top - 170
+        text: "Choose ingredients:"
+
+    Label:
+        font_size: 10
+        center_x: root.width / 2
+        top: root.top - 560
+        text: "Yoav Halevi | Ronen Mor | Or Costa | Noam Kaplan"
+
+    Search:
+        center_x: root.width / 2
+        top: root.top - 435
+        size: 300, 70
+        text: "Find My Next Dish"
+        font_size: 25
+        background_normal: ''
+        background_color: 0, 0.8, 0.25, 1
+
