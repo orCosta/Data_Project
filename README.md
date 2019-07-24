@@ -16,3 +16,7 @@ The ingredients in the recipes data set were given as free strings, and because 
 between ingredients, the process of normalizing them was necessary.
 Normalizing the ingredients was done by running over all food products data set, creating a regex from them, and
 checking each for every ingredient in every recipe
+
+
+![2](https://user-images.githubusercontent.com/44048156/61818872-813c1980-ae5a-11e9-8a57-a49c2d984c18.JPG)
+![4](https://user-images.githubusercontent.com/44048156/61818882-86996400-ae5a-11e9-9e04-802a170ece61.JPG)
