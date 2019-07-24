@@ -1,0 +1,420 @@
+id,name,normalized_name,food_group,food_subgroup
+506,"Cattle (Beef, Veal)",beef,Animal foods,Bovines
+541,Domestic goat,goat,Animal foods,Caprae
+540,Rabbit,rabbit,Animal foods,Lagomorphs
+483,"Sheep (Mutton, Lamb)",mutton,Animal foods,Ovis
+334,"Chicken (Cock, Hen, Rooster)",chicken,Animal foods,Poultry
+358,Mallard duck,mallard duck,Animal foods,Poultry
+505,Turkey,turkey,Animal foods,Poultry
+555,Quail,quail,Animal foods,Poultry
+624,"Columbidae (Dove, Pigeon)",pigeon,Animal foods,Poultry
+549,"Domestic pig (Piglet, Pork)",pork,Animal foods,Swine
+306,Blue crab,blue crab,Aquatic foods,Crustaceans
+359,Dungeness crab,dungeness crab,Aquatic foods,Crustaceans
+404,American lobster,lobster,Aquatic foods,Crustaceans
+546,Shrimp,shrimp,Aquatic foods,Crustaceans
+547,Crayfish,crayfish,Aquatic foods,Crustaceans
+587,Crab,crab,Aquatic foods,Crustaceans
+294,Atlantic mackerel,mackerel,Aquatic foods,Fishes
+299,Striped bass,striped bass,Aquatic foods,Fishes
+309,Bluefish,bluefish,Aquatic foods,Fishes
+327,Common carp,carp,Aquatic foods,Fishes
+342,Pacific cod,pacific cod,Aquatic foods,Fishes
+377,Grouper,grouper,Aquatic foods,Fishes
+379,Haddock,haddock,Aquatic foods,Fishes
+380,Hippoglossus (Common halibut),halibut,Aquatic foods,Fishes
+414,Monkfish,monkfish,Aquatic foods,Fishes
+454,Rainbow trout,rainbow trout,Aquatic foods,Fishes
+458,Orange roughy,orange roughy,Aquatic foods,Fishes
+459,Sablefish,sablefish,Aquatic foods,Fishes
+460,Pink salmon,salmon,Aquatic foods,Fishes
+461,Chum salmon,chum salmon,Aquatic foods,Fishes
+463,Sockeye salmon,sockeye salmon,Aquatic foods,Fishes
+470,Spanish mackerel,spanish mackerel,Aquatic foods,Fishes
+471,Pacific sardine,sardine,Aquatic foods,Fishes
+487,Snapper,snapper,Aquatic foods,Fishes
+498,Swordfish,swordfish,Aquatic foods,Fishes
+514,Whitefish,whitefish,Aquatic foods,Fishes
+515,Whiting,whiting,Aquatic foods,Fishes
+522,Yellowfin tuna,yellowfin tuna,Aquatic foods,Fishes
+524,Pollock,pollock,Aquatic foods,Fishes
+525,Albacore tuna,albacore tuna,Aquatic foods,Fishes
+526,Gadus (Common cod),cod,Aquatic foods,Fishes
+528,Pacific halibut,pacific halibut,Aquatic foods,Fishes
+529,Pacific salmon,pacific salmon,Aquatic foods,Fishes
+530,Smelt,smelt,Aquatic foods,Fishes
+580,Anchovy,anchovy,Aquatic foods,Fishes
+584,Sturgeon,sturgeon,Aquatic foods,Fishes
+585,Charr,charr,Aquatic foods,Fishes
+588,Common dab,dab,Aquatic foods,Fishes
+597,Lemon sole,lemon sole,Aquatic foods,Fishes
+619,Catfish,catfish,Aquatic foods,Fishes
+621,Thunnus (Common tuna),tuna,Aquatic foods,Fishes
+723,Cichlidae (Tilapia),tilapia,Aquatic foods,Fishes
+307,Blue mussel,blue mussel,Aquatic foods,Mollusks
+344,Common octopus,octopus,Aquatic foods,Mollusks
+352,Cuttlefish,cuttlefish,Aquatic foods,Mollusks
+472,Scallop,scallop,Aquatic foods,Mollusks
+545,Squid,squid,Aquatic foods,Mollusks
+601,Marine mussel,mussel,Aquatic foods,Mollusks
+606,True oyster,oyster,Aquatic foods,Mollusks
+617,Snail,snail,Aquatic foods,Mollusks
+625,Conch,conch,Aquatic foods,Mollusks
+396,Kelp,kelp,Aquatic foods,Seaweed
+564,Wakame,wakame,Aquatic foods,Seaweed
+616,Kombu,kombu,Aquatic foods,Seaweed
+684,Gelatin,gelatin,Baking goods,Baking goods
+739,Topping,topping,Baking goods,Baking goods
+758,Pectin,pectin,Baking goods,Baking goods
+776,Spread,spread,Baking goods,Baking goods
+803,Phyllo dough,phyllo dough,Baking goods,Baking goods
+804,Cooking oil,oil,Baking goods,Baking goods
+806,Pie filling,pie filling,Baking goods,Baking goods
+811,Molasses,molasses,Baking goods,Baking goods
+867,Stuffing,stuffing,Baking goods,Baking goods
+673,Mustard,mustard,Baking goods,Condiments
+697,Remoulade,remoulade,Baking goods,Condiments
+781,Ketchup,ketchup,Baking goods,Condiments
+789,Relish,relish,Baking goods,Condiments
+645,Vinegar,vinegar,Baking goods,Seasonings
+666,Salt,salt,Baking goods,Seasonings
+783,Adobo,adobo,Baking goods,Seasonings
+670,Sugar,sugar,Baking goods,Sugars
+805,Pie crust,pie crust,Baking goods,Wrappers
+846,Wonton wrapper,wonton wrapper,Baking goods,Wrappers
+277,Spirit,spirit,Beverages,Distilled beverages
+630,Liquor,liquor,Beverages,Distilled beverages
+639,Vodka,vodka,Beverages,Distilled beverages
+640,Whisky,whisky,Beverages,Distilled beverages
+642,Gin,gin,Beverages,Distilled beverages
+646,Rum,rum,Beverages,Distilled beverages
+268,Beer,beer,Beverages,Fermented beverages
+627,Berry wine,berry wine,Beverages,Fermented beverages
+628,Other wine,wine,Beverages,Fermented beverages
+629,Apple cider,apple cider,Beverages,Fermented beverages
+763,Sake,sake,Beverages,Fermented beverages
+278,Fortified wine,fortified wine,Beverages,Fortified wines
+647,Port wine,port wine,Beverages,Fortified wines
+648,Vermouth,vermouth,Beverages,Fortified wines
+650,Madeira wine,madeira wine,Beverages,Fortified wines
+788,Fruit juice,fruit juice,Beverages,Other beverages
+851,Vegetable juice,vegetable juice,Beverages,Other beverages
+685,Water,water,Beverages,Waters
+274,Pasta,pasta,Cereals and cereal products,Cereal products
+275,Biscuit,biscuit,Cereals and cereal products,Cereal products
+766,Bulgur,bulgur,Cereals and cereal products,Cereal products
+770,Semolina,semolina,Cereals and cereal products,Cereal products
+825,Flour,flour,Cereals and cereal products,Cereal products
+841,Corn grits,corn grits,Cereals and cereal products,Cereal products
+22,Oat,oat,Cereals and cereal products,Cereals
+79,Common buckwheat,buckwheat,Cereals and cereal products,Cereals
+88,Barley,barley,Cereals and cereal products,Cereals
+125,Rice,rice,Cereals and cereal products,Cereals
+126,Millet,millet,Cereals and cereal products,Cereals
+169,Rye,rye,Cereals and cereal products,Cereals
+177,Sorghum,sorghum,Cereals and cereal products,Cereals
+205,Corn,corn,Cereals and cereal products,Cereals
+235,Red rice,red rice,Cereals and cereal products,Cereals
+489,Spelt,spelt,Cereals and cereal products,Cereals
+516,Wild rice,wild rice,Cereals and cereal products,Cereals
+276,Sourdough,sourdough,Cereals and cereal products,Doughs
+828,Dough,dough,Cereals and cereal products,Doughs
+733,Tortilla,tortilla,Cereals and cereal products,Flat breads
+829,Pita bread,pita bread,Cereals and cereal products,Flat breads
+830,Focaccia,focaccia,Cereals and cereal products,Flat breads
+840,Cornbread,cornbread,Cereals and cereal products,Flat breads
+721,Zwieback,zwieback,Cereals and cereal products,Leavened breads
+269,Other bread,bread,Cereals and cereal products,Other breads
+182,Cocoa bean,cocoa,Cocoa and cocoa products,Cocoa
+706,Cocoa butter,cocoa butter,Cocoa and cocoa products,Cocoa products
+707,Cocoa powder,cocoa powder,Cocoa and cocoa products,Cocoa products
+709,Chocolate,chocolate,Cocoa and cocoa products,Cocoa products
+58,Coffee,coffee,Coffee and coffee products,Coffee
+683,Marshmallow,marshmallow,Confectioneries,Candies
+759,Pudding,pudding,Confectioneries,Desserts
+856,Chocolate mousse,chocolate mousse,Confectioneries,Desserts
+641,Ice cream,ice cream,Confectioneries,Frozen desserts
+854,Frozen yogurt,frozen yogurt,Confectioneries,Frozen desserts
+643,Honey,honey,Confectioneries,Other confectioneries
+653,Toffee,toffee,Confectioneries,Other confectioneries
+663,Marzipan,marzipan,Confectioneries,Other confectioneries
+702,Meringue,meringue,Confectioneries,Other confectioneries
+724,Icing,icing,Confectioneries,Other confectioneries
+738,Dulce de leche,dulce de leche,Confectioneries,Spreads
+819,Succotash,succotash,Dishes,American cuisine
+742,Egg roll,egg roll,Dishes,Asian cuisine
+822,Rice cake,rice cake,Dishes,Asian cuisine
+765,Couscous,couscous,Dishes,Berber cuisine
+671,Sausage,sausage,Dishes,Ground meat
+672,Meatball,meatball,Dishes,Ground meat
+674,Pate,pate,Dishes,Ground meat
+762,Meatloaf,meatloaf,Dishes,Ground meat
+795,Cold cut,cold cut,Dishes,Ground meat
+820,Tamale,tamale,Dishes,Latin American cuisine
+859,Empanada,empanada,Dishes,Latin American cuisine
+874,Hummus,hummus,Dishes,Levantine cuisine
+772,Tostada,tostada,Dishes,Mexican cuisine
+773,Quesadilla,quesadilla,Dishes,Mexican cuisine
+691,Dumpling,dumpling,Dishes,Other dishes
+730,Baked beans,baked beans,Dishes,Other dishes
+736,Salad,salad,Dishes,Other dishes
+749,Stew,stew,Dishes,Other dishes
+757,Pancake,pancake,Dishes,Other dishes
+760,Waffle,waffle,Dishes,Other dishes
+755,Lasagna,lasagna,Dishes,Pasta dishes
+784,Macaroni and cheese,macaroni and cheese,Dishes,Pasta dishes
+816,Ravioli,ravioli,Dishes,Pasta dishes
+774,Baked potato,baked potato,Dishes,Potato dishes
+729,Hamburger,hamburger,Dishes,Sandwiches
+775,Hot dog,hot dog,Dishes,Sandwiches
+794,Veggie burger,veggie burger,Dishes,Sandwiches
+728,Burrito,burrito,Dishes,Tex-Mex cuisine
+731,Chili,chil,Dishes,Tex-Mex cuisine
+732,Taco,taco,Dishes,Tex-Mex cuisine
+633,Eggs,egg,Eggs,Eggs
+703,Lard,lard,Fats and oils,Animal fats
+872,Margarine,margarine,Fats and oils,Vegetable fats
+75,Black crowberry,blackberry,Fruits,Berries
+83,Strawberry,strawberr,Fruits,Berries
+157,Gooseberry,gooseberr,Fruits,Berries
+162,Red raspberry,red raspberr,Fruits,Berries
+163,Black raspberry,black raspberr,Fruits,Berries
+191,Highbush blueberry,blueberr,Fruits,Berries
+192,American cranberry,cranberr,Fruits,Berries
+203,Muscadine grape,muscadine grape,Fruits,Berries
+374,Grape,grape,Fruits,Berries
+556,Boysenberry,boysenberr,Fruits,Berries
+53,Lime,lime,Fruits,Citrus
+54,Lemon,lemon,Fruits,Citrus
+56,"Mandarin orange (Clementine, Tangerine)",clementine,Fruits,Citrus
+57,Sweet orange,orange,Fruits,Citrus
+256,Grapefruit,grapefruit,Fruits,Citrus
+889,Citrus,citrus,Fruits,Citrus
+144,Apricot,apricot,Fruits,Drupes
+145,Sweet cherry,cherr,Fruits,Drupes
+147,European plum,plum,Fruits,Drupes
+149,Peach,peach,Fruits,Drupes
+229,Nectarine,nectarine,Fruits,Drupes
+81,Fig,fig,Fruits,Other fruits
+135,Date,date,Fruits,Other fruits
+69,Quince,quince,Fruits,Pomes
+105,Apple,apple,Fruits,Pomes
+152,Pear,pear,Fruits,Pomes
+292,Asian pear,asian pear,Fruits,Pomes
+4,Kiwi,kiwi,Fruits,Tropical fruits
+12,Pineapple,pineapple,Fruits,Tropical fruits
+23,Star fruit,star fruit,Fruits,Tropical fruits
+41,Papaya,papaya,Fruits,Tropical fruits
+106,Mango,mango,Fruits,Tropical fruits
+128,Passion fruit,passion fruit,Fruits,Tropical fruits
+150,Guava,guava,Fruits,Tropical fruits
+151,Pomegranate,pomegranate,Fruits,Tropical fruits
+180,Tamarind,tamarind,Fruits,Tropical fruits
+208,Banana,banana,Fruits,Tropical fruits
+341,Coconut,coconut,Fruits,Tropical fruits
+389,Jackfruit,jackfruit,Fruits,Tropical fruits
+398,Kumquat,kumquat,Fruits,Tropical fruits
+608,Persimmon,persimmon,Fruits,Tropical fruits
+52,Watermelon,watermelon,Gourds,Gourds
+65,Cucumber,cucumber,Gourds,Gourds
+66,Cucurbita (Gourd),gourd,Gourds,Gourds
+115,Bitter gourd,bitter gourd,Gourds,Gourds
+284,Winter squash,squash,Gourds,Gourds
+321,Butternut squash,butternut squash,Gourds,Gourds
+330,Chayote,chayote,Gourds,Gourds
+907,Green zucchini,zucchini,Gourds,Gourds
+908,Yellow zucchini,yellow zucchini,Gourds,Gourds
+700,Curry powder,curry,Herbs and Spices,Herb and spice mixtures
+8,Garlic,garlic,Herbs and Spices,Herbs
+9,Chives,chives,Herbs and Spices,Herbs
+10,Lemon verbena,lemon verbena,Herbs and Spices,Herbs
+13,Dill,dill,Herbs and Spices,Herbs
+19,Tarragon,tarragon,Herbs and Spices,Herbs
+36,Turnip,turnip,Herbs and Spices,Herbs
+61,Coriander,coriander,Herbs and Spices,Herbs
+70,Lemon grass,lemon grass,Herbs and Spices,Herbs
+82,Fennel,fennel,Herbs and Spices,Herbs
+89,Hyssop,hyssop,Herbs and Spices,Herbs
+100,Lovage,lovage,Herbs and Spices,Herbs
+109,Mentha (Mint),mint,Herbs and Spices,Herbs
+112,Spearmint,spearmint,Herbs and Spices,Herbs
+113,Peppermint,peppermint,Herbs and Spices,Herbs
+119,Sweet basil,basil,Herbs and Spices,Herbs
+122,Sweet marjoram,marjoram,Herbs and Spices,Herbs
+124,Common oregano,oregano,Herbs and Spices,Herbs
+131,Parsley,parsley,Herbs and Spices,Herbs
+137,Anise,anise,Herbs and Spices,Herbs
+142,Purslane,purslane,Herbs and Spices,Herbs
+158,Watercress,watercress,Herbs and Spices,Herbs
+159,Rosemary,rosemary,Herbs and Spices,Herbs
+164,Sorrel,sorrel,Herbs and Spices,Herbs
+165,Common sage,sage,Herbs and Spices,Herbs
+167,Summer savory,summer savory,Herbs and Spices,Herbs
+181,Dandelion,dandelion,Herbs and Spices,Herbs
+183,Common thyme,thyme,Herbs and Spices,Herbs
+186,Fenugreek,fenugreek,Herbs and Spices,Herbs
+196,Common verbena,verbena,Herbs and Spices,Herbs
+238,Lemon thyme,lemon thyme,Herbs and Spices,Herbs
+287,Alfalfa,alfalfa,Herbs and Spices,Herbs
+289,Amaranth,amaranth,Herbs and Spices,Herbs
+456,Rose hip,rose hip,Herbs and Spices,Herbs
+566,Epazote,epazote,Herbs and Spices,Herbs
+42,Safflower,safflower,Herbs and Spices,Oilseed crops
+86,Sunflower,sunflower,Herbs and Spices,Oilseed crops
+101,Flaxseed,flaxseed,Herbs and Spices,Oilseed crops
+127,Poppy,poppy,Herbs and Spices,Oilseed crops
+170,Sesame,sesame,Herbs and Spices,Oilseed crops
+346,Cottonseed,cottonseed,Herbs and Spices,Oilseed crops
+797,Canola,canola,Herbs and spices,Oilseed crops
+333,Chia,chia,Herbs and Spices,Other seeds
+406,Lotus,lotus,Herbs and Spices,Other seeds
+450,Quinoa,quinoa,Herbs and Spices,Other seeds
+15,Wild celery,celery,Herbs and Spices,Spices
+18,Horseradish,horseradish,Herbs and Spices,Spices
+39,Capers,capers,Herbs and Spices,Spices
+43,Caraway,caraway,Herbs and Spices,Spices
+63,Saffron,saffron,Herbs and Spices,Spices
+67,Cumin,cumin,Herbs and Spices,Spices
+68,Turmeric,turmeric,Herbs and Spices,Spices
+74,Cardamom,cardamom,Herbs and Spices,Spices
+90,Star anise,star anise,Herbs and Spices,Spices
+118,Nutmeg,nutmeg,Herbs and Spices,Spices
+139,Pepper (Spice),pepper,Herbs and Spices,Spices
+179,Cloves,cloves,Herbs and Spices,Spices
+195,Vanilla,vanilla,Herbs and Spices,Spices
+206,Ginger,ginger,Herbs and Spices,Spices
+219,Ginseng,ginseng,Herbs and Spices,Spices
+288,Allspice,allspice,Herbs and Spices,Spices
+332,Chervil,chervil,Herbs and Spices,Spices
+509,Wasabi,wasabi,Herbs and Spices,Spices
+586,Cinnamon,cinnamon,Herbs and Spices,Spices
+631,Cheese,cheese,Milk and milk products,Fermented milk products
+634,Yogurt,yogurt,Milk and milk products,Fermented milk products
+735,Processed cheese,processed cheese,Milk and milk products,Fermented milk products
+713,Kefir,kefir,Milk and milk products,Fermented milks
+714,Buttermilk,buttermilk,Milk and milk products,Fermented milks
+667,Butter,butter,Milk and milk products,Other milk products
+669,Cream,cream,Milk and milk products,Other milk products
+679,Whey,whey,Milk and milk products,Other milk products
+824,Evaporated milk,evaporated milk,Milk and milk products,Other milk products
+871,Condensed milk,condensed milk,Milk and milk products,Other milk products
+632,Milk (Cow),milk,Milk and milk products,Unfermented milks
+11,Cashew nut,cashew nut,Nuts,Nuts
+16,Peanut,peanut,Nuts,Nuts
+45,Chestnut,chestnut,Nuts,Nuts
+93,Black walnut,black walnut,Nuts,Nuts
+138,Pine nut,pine nut,Nuts,Nuts
+140,Pistachio,pistachio,Nuts,Nuts
+148,Almond,almond,Nuts,Nuts
+320,Butternut,butternut,Nuts,Nuts
+381,Hazelnut,hazelnut,Nuts,Nuts
+536,Macadamia nut,macadamia nut,Nuts,Nuts
+622,Walnut,walnut,Nuts,Nuts
+133,Lima bean,lima bean,Pulses,Beans
+197,Broad bean,broad bean,Pulses,Beans
+198,Adzuki bean,adzuki bean,Pulses,Beans
+200,Mung bean,mung bean,Pulses,Beans
+638,Bean,bean,Pulses,Beans
+914,Yellow wax bean,yellow wax bean,Pulses,Beans
+915,Green bean,green bean,Pulses,Beans
+98,Lentils,lentils,Pulses,Lentils
+37,Pigeon pea,pigeon pea,Pulses,Peas
+47,Chickpea,chickpea,Pulses,Peas
+141,Common pea,pea,Pulses,Peas
+534,Black-eyed pea,black-eyed pea,Pulses,Peas
+744,Popcorn,popcorn,Snack foods,Snack foods
+745,Potato chip,potato chip,Snack foods,Snack foods
+746,Tortilla chip,tortilla chip,Snack foods,Snack foods
+747,Corn chip,corn chip,Snack foods,Snack foods
+812,Cracker,cracker,Snack foods,Snack foods
+85,Soy bean,soy bean,Soy,Soy
+716,Soy sauce,soy sauce,Soy,Soy products
+717,Miso,miso,Soy,Soy products
+718,Tofu,tofu,Soy,Soy products
+761,Soy milk,soy milk,Soy,Soy products
+792,Soy yogurt,soy yogurt,Soy,Soy products
+809,Soy cream,soy cream,Soy,Soy products
+815,Natto,natto,Soy,Soy products
+27,Chinese mustard,chinese mustard,Vegetables,Cabbages
+31,Cauliflower,cauliflower,Vegetables,Cabbages
+32,Brussel sprouts,brussel sprouts,Vegetables,Cabbages
+34,Broccoli,broccoli,Vegetables,Cabbages
+252,Pak choy,pak choy,Vegetables,Cabbages
+253,Napa cabbage,napa cabbage,Vegetables,Cabbages
+314,Rapini,rapini,Vegetables,Cabbages
+395,Kale,kale,Vegetables,Cabbages
+881,Cabbage,cabbage,Vegetables,Cabbages
+919,White cabbage,white cabbage,Vegetables,Cabbages
+121,Olive,olive,Vegetables,Fruit vegetables
+130,Avocado,avocado,Vegetables,Fruit vegetables
+171,Garden tomato,tomato,Vegetables,Fruit vegetables
+172,Cherry tomato,cherry tomato,Vegetables,Fruit vegetables
+174,Eggplant,eggplant,Vegetables,Fruit vegetables
+233,Pepper (Capsicum),capsicum,Vegetables,Fruit vegetables
+911,Orange bell pepper,bell pepper,Vegetables,Fruit vegetables
+25,Common beet,beet,Vegetables,Leaf vegetables
+48,Endive,endive,Vegetables,Leaf vegetables
+77,Rocket salad (ssp.),rocket,Vegetables,Leaf vegetables
+95,Lettuce,lettuce,Vegetables,Leaf vegetables
+178,Spinach,spinach,Vegetables,Leaf vegetables
+237,Swiss chard,chard,Vegetables,Leaf vegetables
+561,Common mushroom,mushroom,Vegetables,Mushrooms
+562,Shiitake,shiitake,Vegetables,Mushrooms
+567,Oyster mushroom,oyster mushroom,Vegetables,Mushrooms
+568,Cloud ear fungus,cloud ear fungus,Vegetables,Mushrooms
+583,Chanterelle,chanterelle,Vegetables,Mushrooms
+5,Allium (Onion),onion,Vegetables,Onion-family vegetables
+7,Leek,leek,Vegetables,Onion-family vegetables
+243,Shallot,shallot,Vegetables,Onion-family vegetables
+423,Nopal,nopal,Vegetables,Other vegetables
+427,Okra,okra,Vegetables,Other vegetables
+577,Agave,agave,Vegetables,Other vegetables
+28,Swede,swede,Vegetables,Root vegetables
+33,Kohlrabi,kohlrabi,Vegetables,Root vegetables
+49,Chicory,chicory,Vegetables,Root vegetables
+129,Parsnip,parsnip,Vegetables,Root vegetables
+153,Radish,radish,Vegetables,Root vegetables
+245,Carrot,carrot,Vegetables,Root vegetables
+261,Daikon radish,daikon radish,Vegetables,Root vegetables
+499,Taro,taro,Vegetables,Root vegetables
+520,Jicama,jicama,Vegetables,Root vegetables
+21,Asparagus,asparagus,Vegetables,Shoot vegetables
+71,Globe artichoke,artichoke,Vegetables,Shoot vegetables
+298,Bamboo shoots,bamboo,Vegetables,Shoot vegetables
+154,Garden rhubarb,rhubarb,Vegetables,Stalk vegetables
+92,Sweet potato,sweet potato,Vegetables,Tubers
+175,Potato,potato,Vegetables,Tubers
+290,Arrowhead,arrowhead,Vegetables,Tubers
+291,Arrowroot,arrowroot,Vegetables,Tubers
+328,Cassava,cassava,Vegetables,Tubers
+392,Jerusalem artichoke,jerusalem artichoke,Vegetables,Tubers
+519,Yam,yam,Vegetables,Tubers
+-1,Olive Oil,olive oil,Herbs and Spices,Oilseed crops
+-1,Onion Powder,onion powder,Herbs and Spices,Spices
+-1,Chicken Broth,chicken broth,Herbs and Spices,Others
+-1,Chicken Stock,chicken stock,Herbs and Spices,Others
+-1,Beef Broth,beef broth,Herbs and Spices,Others
+-1,Beef Powder,beef stock,Herbs and Spices,Others
+-1,Cornmeal,cornmeal,Cereals and cereal products,Cereal products
+-1,Cornflour,cornflour,Cereals and cereal products,Cereal products
+-1,Corn Syrup,cornsyrup,Confectioneries,Other confectioneries
+-1,Coconut Oil,coconut oil,Herbs and Spices,Oilseed crops
+-1,Coconut Milk,coconut milk,Milk and milk products,Other milk products
+-1,Bread Crumbs,bread crumbs,Cereals and cereal products,Other breads
+-1,Breadcrumbs,breadcrumbs,Cereals and cereal products,Other breads
+-1,Lemon Juice,lemon juice,Beverages,Other beverages
+-1,Lemon Zest,lemon zest,Fruits,Citrus
+-1,Orange Juice,orange juice,Beverages,Other beverages
+-1,Orange Zest,orange zest,Fruits,Citrus
+-1,Lemon Rind,lemond rind,Fruits,Citrus
+-1,Orange Rind,orange rind,Fruits,Citrus
+-1,Lime Juice,lime juice,Beverages,Other beverages
+-1,Lime Zest,lime zest,Fruits,Citrus
+-1,Lime rind,lime rind,Fruits,Citrus
+-1,Mozzarella,mozzarella,Milk and milk products,Fermented milk products
+-1,Parmesan,parmesan,Milk and milk products,Fermented milk products
+-1,Cheddar,cheddar,Milk and milk products,Fermented milk products
+-1,Ricotta,ricotta,Milk and milk products,Fermented milk products
+-1,Jack Cheese,jack cheese,Milk and milk products,Fermented milk products
+-1,Swiss Cheese,swiss cheese,Milk and milk products,Fermented milk products
+-1,Barbeque,barbeque,Baking goods,Baking goods
