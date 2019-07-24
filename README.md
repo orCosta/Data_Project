@@ -8,7 +8,7 @@ We also would like to pair ingredients from the same cateogry, for example, repl
 
 
 Data Sets used:
-Data set of X general food products and their chemical(?) structure:
+Data set of ~420 general food products and their chemical structure:
 Data set of 28K recipes:
 
 Pre-Processing stage:
@@ -20,3 +20,8 @@ checking each for every ingredient in every recipe
 
 ![2](https://user-images.githubusercontent.com/44048156/61818872-813c1980-ae5a-11e9-8a57-a49c2d984c18.JPG)
 ![4](https://user-images.githubusercontent.com/44048156/61818882-86996400-ae5a-11e9-9e04-802a170ece61.JPG)
+
+## Similarity Graphs
+
+![All_ing_1](https://user-images.githubusercontent.com/44048156/61819270-53a3a000-ae5b-11e9-9a41-dc8694a8265d.png)
+![lemon_1](https://user-images.githubusercontent.com/44048156/61819271-53a3a000-ae5b-11e9-9d60-e0b799ccf79c.png)
